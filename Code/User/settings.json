@@ -1,5 +1,6 @@
 // Place your settings in this file to overwrite the default settings
 {
+    "editor.fontFamily": "Consolas, 'Courier New', monospace"
     "git.path": "C:\\Program Files\\Git\\cmd\\git.exe",
     "editor.renderWhitespace": true,
     "python.linting.enabled": false,
