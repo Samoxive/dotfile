@@ -1,0 +1,7 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "git.path": "C:\\Program Files\\Git\\cmd\\git.exe",
+    "editor.renderWhitespace": true,
+    "python.linting.enabled": false,
+    "editor.fontSize": 12
+}
